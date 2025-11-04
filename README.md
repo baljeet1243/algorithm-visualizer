@@ -127,11 +127,6 @@ export const algorithmRegistry = {
 };
 ```
 
-## 📚 Documentation
-
-- **[IMPLEMENTATION_GUIDE.md](./IMPLEMENTATION_GUIDE.md)** - Comprehensive architecture, roadmap, and implementation details
-- **[API Documentation](./backend/README.md)** - Backend API reference (if using FastAPI)
-
 ## 🛠️ Tech Stack
 
 ### Frontend
